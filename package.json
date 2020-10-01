@@ -1,0 +1,9 @@
+{
+  "name": "typeface-aeries-sans",
+  "version": "0.0.1",
+  "description": "Aeries Sans Typeface",
+  "main": "index.css",
+  "repository": "https://github.com/aeries-design/typeface-aeries-sans",
+  "author": "Zachary Guerrero <zachg@aeries.com>",
+  "license": "MIT"
+}
