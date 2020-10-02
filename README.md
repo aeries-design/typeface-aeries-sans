@@ -4,7 +4,7 @@ The CSS and web font files to easily self-host "Aeries Sans".
 
 ## Install
 
-`npm install --save @aeries-design/typeface-aeries-sans`
+`npm install --save typeface-aeries-sans`
 
 ## Use
 
@@ -13,11 +13,11 @@ This package assumes you're using webpack or some bundler to process your css an
 To use, simply require the package in the project's entry file e.g.
 
 ```javascript
-require('@aeries-design/typeface-aeries-sans')
+require('typeface-aeries-sans')
 ```
 or
 ```javascript
-import('@aeries-design/typeface-aeries-sans')
+import('typeface-aeries-sans')
 ```
 
 ## About This package
