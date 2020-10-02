@@ -6,9 +6,9 @@
   font-weight: 800;
   src: 
     local('Aeries Sans ExtraBold'),
-    local('Aeries Sans-ExtraBold')
-    url('.files/AeriesSansExtraBold.woff2') format('woff2'), /* Super Modern Browsers */
-    url('.files/AeriesSansExtraBold.woff') format('woff'); /* Modern Browsers */
+    local('Aeries Sans-ExtraBold'),
+    url('./files/AeriesSansExtraBold.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/AeriesSansExtraBold.woff') format('woff'); /* Modern Browsers */
 }
 
 /* aeries-sans-700 Bold */
@@ -19,9 +19,9 @@
   font-weight: 700;
   src: 
     local('Aeries Sans Bold'),
-    local('Aeries Sans-Bold')
-    url('.files/AeriesSansBold.woff2') format('woff2'), /* Super Modern Browsers */
-    url('.files/AeriesSansBold.woff') format('woff'); /* Modern Browsers */
+    local('Aeries Sans-Bold'),
+    url('./files/AeriesSansBold.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/AeriesSansBold.woff') format('woff'); /* Modern Browsers */
 }
 
 /* aeries-sans-600 Semi-Bold */
@@ -32,9 +32,9 @@
   font-weight: 600;
   src: 
     local('Aeries Sans SemiBold'),
-    local('Aeries Sans-SemiBold')
-    url('.files/AeriesSansSemiBold.woff2') format('woff2'), /* Super Modern Browsers */
-    url('.files/AeriesSansSemiBold.woff') format('woff'); /* Modern Browsers */
+    local('Aeries Sans-SemiBold'),
+    url('./files/AeriesSansSemiBold.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/AeriesSansSemiBold.woff') format('woff'); /* Modern Browsers */
 }
 
 /* aeries-sans-400 Medium */
@@ -44,9 +44,9 @@
   font-weight: 400;
   src: 
     local('Aeries Sans Medium'),
-    local('Aeries Sans-Medium')
-    url('.files/AeriesSansMedium.woff2') format('woff2'), /* Super Modern Browsers */
-    url('.files/AeriesSansMedium.woff') format('woff'); /* Modern Browsers */
+    local('Aeries Sans-Medium'),
+    url('./files/AeriesSansMedium.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/AeriesSansMedium.woff') format('woff'); /* Modern Browsers */
 }
 
 /* aeries-sans-300 Light */
@@ -56,9 +56,9 @@
   font-weight: 300;
   src: 
     local('Aeries Sans Light'),
-    local('Aeries Sans-Light')
-    url('.files/AeriesSansLight.woff2') format('woff2'), /* Super Modern Browsers */
-    url('.files/AeriesSansLight.woff') format('woff'); /* Modern Browsers */
+    local('Aeries Sans-Light'),
+    url('./files/AeriesSansLight.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/AeriesSansLight.woff') format('woff'); /* Modern Browsers */
 }
 
 /* aeries-sans-200 Thin*/
@@ -68,7 +68,7 @@
   font-weight: 200;
   src: 
     local('Aeries Sans Thin'),
-    local('Aeries Sans-Thin')
-    url('.files/AeriesSansThin.woff2') format('woff2'), /* Super Modern Browsers */
-    url('.files/AeriesSansThin.woff') format('woff'); /* Modern Browsers */
+    local('Aeries Sans-Thin'),
+    url('./files/AeriesSansThin.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/AeriesSansThin.woff') format('woff'); /* Modern Browsers */
 }
